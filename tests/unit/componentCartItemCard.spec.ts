@@ -5,7 +5,7 @@ describe('CartItemCard.vue', () => {
     it('renders the menuItem prop data', () => {
         const menuItem = {
             id: 1,
-            name: "French Fries",
+            name: "French Pizza",
             description: "Fried potato rectangles",
             price: "4.99",
             imageId: '1'
